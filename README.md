@@ -15,12 +15,35 @@ Matcha is a modern web application inspired by Tinder's swiping interface. It en
 
 This project employs a range of cutting-edge technologies:
 
-- <span><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="18" height="18" alt="Vue" /> Vue 3 with Composition API and
-  <a style="display:inline" href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="18" height="18" alt="Vite" /></a> Vite for optimized bundling</span>
-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="18" height="18" alt="TailwindCSS" /> Tailwind CSS for responsive and modern styling
-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="18" height="18" alt="Express" /> Express JS for building the server-side application logic
-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="18" height="18" alt="PostgreSQL" /> Postgres for efficient data storage with native SQL queries
-- <img src="https://github.com/python-websockets/websockets/raw/main/logo/icon.svg" width="18" height="18" alt="JavaScript" /> WebSockets for real-time communication
+<div style="display: flex; align-items: center; margin-left: 10px; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="18" height="18" alt="Vue" />
+  <span style="margin-left: 5px;"><strong>Vue 3:</strong> Frontend framework for building user interfaces.</span>
+</div>
+
+<div style="display: flex; align-items: center; margin-left: 10px; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="18" height="18" alt="TailwindCSS" />
+  <span style="margin-left: 5px;"><strong>Tailwind CSS:</strong> Styling library for modern and responsive user interfaces.</span>
+</div>
+
+<div style="display: flex; align-items: center; margin-left: 10px; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="18" height="18" alt="Express" />
+  <span style="margin-left: 5px;"><strong>Express JS:</strong> Backend framework for building the server-side application logic.</span>
+</div>
+
+<div style="display: flex; align-items: center; margin-left: 10px; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="18" height="18" alt="PostgreSQL" />
+  <span style="margin-left: 5px;"><strong>Postgres:</strong> Database for efficient data storage with native SQL queries.</span>
+</div>
+
+<div style="display: flex; align-items: center; margin-left: 10px; margin-right: 10px;">
+  <img src="https://github.com/python-websockets/websockets/raw/main/logo/icon.svg" width="18" height="18" alt="JavaScript" />
+  <span style="margin-left: 5px;"><strong>WebSockets:</strong> Real-time communication for online gameplay and chat.</span>
+</div>
+
+<div style="display: flex; align-items: center; margin-left: 10px; margin-right: 10px;">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="18" height="18" alt="TypeScript" />
+  <span style="margin-left: 5px;"><strong>TypeScript:</strong> Superset of JavaScript with static typing for enhanced development.</span>
+</div>
 
 ## Installation
 
@@ -37,33 +60,33 @@ Once the application is built and launched, access it by visiting [http://localh
 
 ### Registration and Signing-in
 
-- ✔️ Users can register with their email address, username, name, and protected password. A verification link is sent via email for account confirmation.
-- ✔️ Secure user login and password reset functionality.
-- ✔️ Convenient one-click logout from any page.
+- Users can register with their email address, username, name, and protected password. A verification link is sent via email for account confirmation.
+- Secure user login and password reset functionality.
+- Convenient one-click logout from any page.
 
 ### User Profile
 
-- ✔️ Users can create detailed profiles including gender, sexual preferences, biography, interests with reusable tags, and profile pictures.
-- ✔️ Profile information is modifiable, including personal details.
-- ✔️ Tracking of profile visits and "likes" received from other users.
-- ✔️ Public "fame rating" to add an interactive element.
+- Users can create detailed profiles including gender, sexual preferences, biography, interests with reusable tags, and profile pictures.
+- Profile information is modifiable, including personal details.
+- Tracking of profile visits and "likes" received from other users.
+- Public "fame rating" to add an interactive element.
 
 ### Browsing and Matching
 
-- ✔️ Users receive curated match suggestions based on geographic area, common tags, and "fame rating."
-- ✔️ Intelligent matching prioritizes profiles from the same region and offers sort and filter options.
-- ✔️ Advanced search functionality with customizable criteria, including age, "fame rating," location, and interests.
+- Users receive curated match suggestions based on geographic area, common tags, and "fame rating."
+- Intelligent matching prioritizes profiles from the same region and offers sort and filter options.
+- Advanced search functionality with customizable criteria, including age, "fame rating," location, and interests.
 
 ### Interaction and Communication
 
-- ✔️ Explore other users' profiles, see their information, and track visits.
-- ✔️ "Like" a profile picture to initiate connections for real-time chat when mutual.
-- ✔️ Real-time chat functionality for connected users.
-- ✔️ Notifications for events like receiving "likes," profile views, messages, and mutual "likes."
+- Explore other users' profiles, see their information, and track visits.
+- "Like" a profile picture to initiate connections for real-time chat when mutual.
+- Real-time chat functionality for connected users.
+- Notifications for events like receiving "likes," profile views, messages, and mutual "likes."
 
 ### Location Services
 
-- ✔️ Integration of Google Maps for changing user location and enhancing the matching experience.
+- Integration of Google Maps for changing user location and enhancing the matching experience.
 
 ## Acknowledgments
 
