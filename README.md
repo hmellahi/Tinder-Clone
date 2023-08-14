@@ -7,7 +7,7 @@
 Matcha is a modern web application inspired by Tinder's swiping interface. It enables users to discover potential matches based on shared interests and location. If two users mutually swipe right on each other's profiles, they can connect and start chatting, potentially leading to meaningful connections.
 
 <div align="center">
-  <img style="box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);" src="https://github.com/hmellahi/Tinder-Clone/blob/master/Feed.png?raw=true" alt="Matcha Project" width="80%">
+  <img style="box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);" src="assets/Feed.png" alt="Matcha Project" width="80%">
   <p><em>Screenshot of the Matcha Feed Page</em></p>
 </div>
 
@@ -20,7 +20,7 @@ This project employs a range of cutting-edge technologies:
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="18" height="18" alt="TailwindCSS" /> Tailwind CSS for responsive and modern styling
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="18" height="18" alt="Express" /> Express JS for building the server-side application logic
 - <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="18" height="18" alt="PostgreSQL" /> Postgres for efficient data storage with native SQL queries
-- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="18" height="18" alt="JavaScript" /> WebSockets for real-time communication
+- <img src="https://github.com/python-websockets/websockets/raw/main/logo/icon.svg" width="18" height="18" alt="JavaScript" /> WebSockets for real-time communication
 
 ## Installation
 
