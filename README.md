@@ -1,6 +1,6 @@
 # Matcha (Tinder Clone) Project
 
-**Demo:** Explore the live demo of this project at [matcha.hmellahi.me](https://matcha.hmellahi.me) ( still working on it)
+<!--  **Demo:** Explore the live demo of this project at [matcha.hmellahi.me](https://matcha.hmellahi.me) ( still working on it) -->
 
 ## Project Overview
 
