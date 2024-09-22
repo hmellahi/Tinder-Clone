@@ -6,10 +6,10 @@
 
 Matcha is a modern web application inspired by Tinder's swiping interface. It enables users to discover potential matches based on shared interests and location. If two users mutually swipe right on each other's profiles, they can connect and start chatting, potentially leading to meaningful connections.
 
-<div align="center">
+<!-- <div align="center">
   <img style="box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);" src="assets/Feed.png" alt="Matcha Project" width="80%">
   <p><em>Screenshot of the Matcha Feed Page</em></p>
-</div>
+</div> -->
 
 ## Technology Stack
 
